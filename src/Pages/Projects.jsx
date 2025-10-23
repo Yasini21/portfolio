@@ -21,6 +21,7 @@ const Projects = () => {
               <span>CSS</span>
               <span>JavaScript</span>
               <span>MySQL</span>
+              <span></span>
             </div><br/>
              <button className='btn'>ViewCode</button>
           </div>
